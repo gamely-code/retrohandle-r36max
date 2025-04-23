@@ -5,15 +5,15 @@ Game Devices for Linux and Android
 # Download Links
 ## Boot From the TF Card
 ### R36Pro
-Download [Google Drive](https://drive.google.com/file/d/1nS_MZI08bRWa7lzJr1JWqlq9DCZbicjX/view?usp=drive_link)  (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1R60Xldd6-wbgdCBgznDDhYGNM2zEf_bb/view?usp=sharing)  (Updated (2025-4-23)
 ### R36Max
-Download [Google Drive](https://drive.google.com/file/d/1ghmlf-igMjMGmMO08KwtSTSRHTLr_CC5/view?usp=drive_link)  (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1AhOBWFN_YHyZChJFNrK7_MYhrSXyONg9/view?usp=sharing)  (Updated (2025-4-23)
 
 ## Boot From the Flash
 ### R36Pro
-Download [Google Drive](https://drive.google.com/file/d/1fFva7qTiDAIUkc5Ma6ySxHG3sv8fne0x/view?usp=sharing) (Update 01/21/2025)
+Download [Google Drive](https://drive.google.com/file/d/1_5VdlZvABxIUKYmsFszp4ZIowvs99ulw/view?usp=sharing) (Update 2025-4-23)
 ### R36Max
-Download [Google Drive](https://drive.google.com/file/d/17zbtS-JUim9bTBoyhGrXWLhCJVy5yhcL/view?usp=sharing) (Update 01/21/2025)
+Download [Google Drive](https://drive.google.com/file/d/18DJUsGsxhntHtPqRZJv2Va1yaF8xfj5Q/view?usp=sharing) (Update 2025-4-23)
 
 
 
