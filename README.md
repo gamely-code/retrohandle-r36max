@@ -20,12 +20,12 @@ Download [Google Drive](https://drive.google.com/file/d/18DJUsGsxhntHtPqRZJv2Va1
 # [ArkOS System]
 ## Boot From the TF Card
 ### R36Pro
-Download [Google Drive] | [MEGA] (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1OUMwELVfJ_IK3X7b6-R7ggtZis2QI1Ov/view?usp=sharing)  (Updated 2025-4-25)
 
 ### R36Max
-Download [Google Drive] | [MEGA] (Updated (09/19/2024)
+Download [Google Drive](https://drive.google.com/file/d/1-ZaxolrpXn7Ncddpy6pA4QOiIRZcbb7Z/view?usp=sharing)  (Updated 2025-4-25)
 
 
 
 
-[ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [EmuElec Wiki](https://github.com/EmuELEC/EmuELEC/wiki)  | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) | [Changelog]()
+[ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [EmuElec Wiki](https://github.com/EmuELEC/EmuELEC/wiki)  | [Changelog]()
