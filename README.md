@@ -23,7 +23,7 @@ Download [Google Drive](https://drive.google.com/file/d/18DJUsGsxhntHtPqRZJv2Va1
 Download [Google Drive](https://drive.google.com/file/d/1OUMwELVfJ_IK3X7b6-R7ggtZis2QI1Ov/view?usp=sharing)  (Updated 2025-4-25)
 
 ### R36Max
-Download [Google Drive](https://drive.google.com/file/d/1-ZaxolrpXn7Ncddpy6pA4QOiIRZcbb7Z/view?usp=sharing)  (Updated 2025-4-25)
+Download [Google Drive](https://drive.google.com/file/d/19T5ZCBVHQygD8xszPSG0LPBCjgXP5r_b/view?usp=sharing)  (Updated 2025-4-28)
 
 
 
