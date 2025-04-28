@@ -20,7 +20,7 @@ Download [Google Drive](https://drive.google.com/file/d/18DJUsGsxhntHtPqRZJv2Va1
 # [ArkOS System]
 ## Boot From the TF Card
 ### R36Pro
-Download [Google Drive](https://drive.google.com/file/d/1OUMwELVfJ_IK3X7b6-R7ggtZis2QI1Ov/view?usp=sharing)  (Updated 2025-4-25)
+Download [Google Drive](https://drive.google.com/file/d/1C6NzxlpkuJQEn6aCUusVOgs2wr_Ozn8u/view?usp=sharing)  (Updated 2025-4-25)
 
 ### R36Max
 Download [Google Drive](https://drive.google.com/file/d/19T5ZCBVHQygD8xszPSG0LPBCjgXP5r_b/view?usp=sharing)  (Updated 2025-4-28)
